@@ -1,6 +1,6 @@
 import groovy.json.JsonSlurperClassic
 
-
+ 
 node {
     env.AWS_DEFAULT_REGION = 'ap-southeast-1'
 	
